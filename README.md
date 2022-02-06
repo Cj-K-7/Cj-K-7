@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cj-K-7
-- 👀 I’m interested in many many THINGS
+- 👀 I’m interested in Algorithms
 - 🌱 I’m currently learning JAVASCRIPT/REACT_NATIVE/REACT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kllt7059@gmail.com
