@@ -9,7 +9,7 @@
 <hr>
 Please Look around my repositories.
 
-belows are [FreeCodeCamp](https://www.freecodecamp.org/)'s Certifications I look forward to get :  
+belows are [[FreeCodeCamp](https://www.freecodecamp.org/)]'s Certifications I look forward to get :  
   
 ✅[Responsive-Web-Design](https://www.freecodecamp.org/certification/AFK69/responsive-web-design)  
 🔲[Javascript Algorithms and Data Structures]()  
@@ -18,7 +18,7 @@ belows are [FreeCodeCamp](https://www.freecodecamp.org/)'s Certifications I look
 
 <hr>
 
-[My Codepen](https://codepen.io/cj-k-7)
+this is My [[Codepen](https://codepen.io/cj-k-7)]
 <!---
 Cj-K-7/Cj-K-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
