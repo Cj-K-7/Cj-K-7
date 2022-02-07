@@ -1,5 +1,6 @@
 #Welcome
-<hr>
+<hr>  
+
 - 👋 Hi, I’m @Cj-K-7
 - 👀 I’m interested in Algorithms
 - 🌱 I’m currently learning JAVASCRIPT/REACT_NATIVE/REACT
