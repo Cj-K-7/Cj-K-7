@@ -11,10 +11,10 @@ Please Look around my repositories.
 
 belows are [[FreeCodeCamp](https://www.freecodecamp.org/)]'s Certifications I look forward to get :  
   
-✅[Responsive-Web-Design](https://www.freecodecamp.org/certification/AFK69/responsive-web-design)  
-🔲[Javascript Algorithms and Data Structures]()  
-🔲[Front End Development Libraries]()  
-🔲[Data Visualization]()  
+✅ [[Responsive-Web-Design](https://www.freecodecamp.org/certification/AFK69/responsive-web-design)]  
+🔲 [[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/AFK69)]  
+🔲 [[Front End Development Libraries](https://www.freecodecamp.org/certification/AFK69)]  
+🔲 [[Data Visualization](https://www.freecodecamp.org/certification/AFK69)]  
 
 <hr>
 
