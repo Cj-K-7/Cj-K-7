@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on "No one.."😂
 - 📫 How to reach me : kllt7059@gmail.com
 
+I've been trying to learn programming language as possible as on my own by googling.  
+but I needed some help, and I found these, and it was very helpfull.
 <hr>
 
 ## Nomad Coders
@@ -19,7 +21,6 @@ this is
 
 ## Free Code Camp
 
-I've been trying to learn programming language as possible as on my own by googling. but I found FCC. and it was very helpfull.
 belows are [[FreeCodeCamp](https://www.freecodecamp.org/)]'s Certifications I look forward to get :  
   
 ✅ [[Responsive-Web-Design](https://www.freecodecamp.org/certification/AFK69/responsive-web-design)]  
