@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @Cj-K-7
 - 👀 I’m interested in Algorithms
 - 🌱 I’m currently learning Typescript / React
-- 💞️ I’m looking to collaborate on "No one.."😂
+- 💞️ I’m looking to collaborate on.... 😂😂😂
 - 📫 How to reach me : kllt7059@gmail.com
 
 I've been trying to learn programming language as possible as on my own by googling.  
