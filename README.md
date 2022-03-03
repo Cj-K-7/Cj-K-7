@@ -28,9 +28,6 @@ belows are [[FreeCodeCamp](https://www.freecodecamp.org/)]'s Certifications I lo
 🔲 [[Front End Development Libraries](https://www.freecodecamp.org/certification/AFK69)]  
 🔲 [[Data Visualization](https://www.freecodecamp.org/certification/AFK69)]  
 
-this is 
-**[Nomad Coders](https://nomadcoders.co/users/kllt7059)** 
-**Lessons/Challenges** I've gone through
 
 <hr>
 
