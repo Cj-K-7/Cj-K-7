@@ -8,7 +8,7 @@
 - 📫 How to reach me : kllt7059@gmail.com
 
 I've been trying to learn programming language as possible as on my own by googling.  
-but I needed some help, and I found these, and it was very helpfull.
+
 <hr>
 
 ## Nomad Coders
