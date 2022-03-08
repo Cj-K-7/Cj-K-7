@@ -21,7 +21,7 @@ this is
 
 ## Free Code Camp
 
-belows are [[FreeCodeCamp](https://www.freecodecamp.org/)]'s Certifications I look forward to get :  
+belows are [[FreeCodeCamp](https://www.freecodecamp.org/)]'s Certifications
   
 ✅ [[Responsive-Web-Design](https://www.freecodecamp.org/certification/AFK69/responsive-web-design)]  
 🔲 [[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/AFK69)]  
