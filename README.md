@@ -21,12 +21,15 @@ this is
 
 ## Free Code Camp
 
-belows are [[FreeCodeCamp](https://www.freecodecamp.org/)]'s Certifications
+[[FreeCodeCamp](https://www.freecodecamp.org/)]'s lesson/challenges
+it' very helpful.
   
+  especially ...
+ 
 ✅ [[Responsive-Web-Design](https://www.freecodecamp.org/certification/AFK69/responsive-web-design)]  
-🔲 [[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/AFK69)]  
-🔲 [[Front End Development Libraries](https://www.freecodecamp.org/certification/AFK69)]  
-🔲 [[Data Visualization](https://www.freecodecamp.org/certification/AFK69)]  
+🔲 [[Javascript Algorithms and Data Structures]
+🔲 [[Front End Development Libraries]
+🔲 [[Data Visualization]
 
 
 <hr>
