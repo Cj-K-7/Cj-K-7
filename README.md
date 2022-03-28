@@ -27,9 +27,9 @@ it' very helpful.
   especially ...
  
 ✅ [[Responsive-Web-Design](https://www.freecodecamp.org/certification/AFK69/responsive-web-design)]  
-✅ [[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/AFK69/javascript-algorithms-and-data-structures)  
-🔲 [[Front End Development Libraries]  
-🔲 [[Data Visualization]  
+✅ [[Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/AFK69/javascript-algorithms-and-data-structures)]  
+🔲 [[Front End Development Libraries]()]  
+🔲 [[Data Visualization]()]  
 
 
 <hr>
