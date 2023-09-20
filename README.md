@@ -7,4 +7,4 @@
 - 💞️ I’m Frontend Developer
 - 📫 How to reach me : kllt7059@gmail.com
 
-![Leetcode Stats](https://leetcard.Cj-k-7.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.Cj-K-7.cool/JacobLinCool)
